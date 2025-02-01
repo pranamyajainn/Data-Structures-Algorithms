@@ -26,3 +26,6 @@ class Solution:
                 return nums[p]  # Found the k-th largest element
         
         return quickSelect(0, len(nums) - 1)
+
+
+###https://www.youtube.com/watch?v=XEmy13g1Qxc
