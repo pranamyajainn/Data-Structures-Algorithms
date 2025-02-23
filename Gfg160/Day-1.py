@@ -1,5 +1,5 @@
 # Python program to find the second largest element in the array
-# using one traversal
+# using one traversal here
 
 # function to find the second largest element in the array
 def getSecondLargest(arr):
