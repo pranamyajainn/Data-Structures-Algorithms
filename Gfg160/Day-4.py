@@ -1,7 +1,7 @@
 # Python Program to left rotate the array by d positions
 # using temporary array
 
-# Function to rotate array
+# Function to rotate the array
 def rotateArr(arr, d):
     n = len(arr)
 
